@@ -2,7 +2,7 @@
 
 > Private company
 
-- Fully booked, #atm.
+- Fully booked, [#atm](https://github.com/topics/atm).
 - Signup here: [queue@thingylabs.io](mailto:queue@thingylabs.io).
 
 <!--
