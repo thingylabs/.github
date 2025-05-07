@@ -3,7 +3,7 @@
 > Private company
 
 - **Fully booked.**
-- Signup here: [queue@thingylabs.io](mailto:queue@thingylabs.io).
+- [queue@thingylabs.io](mailto:queue@thingylabs.io)
 
 <!--
 
